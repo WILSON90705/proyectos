@@ -1,0 +1,24 @@
+# Juego de Cartas en Flutter
+
+## 📌 Descripción
+Aplicación desarrollada en Flutter que implementa la lógica base de un juego de cartas,
+incluyendo manejo de baraja, reparto y control del estado del juego.
+
+## 🛠 Tecnologías
+- Flutter
+- Dart
+
+## 🎮 Funcionalidades actuales
+- Barajado de cartas
+- Reparto de cartas
+- Gestión del estado del juego
+- Interfaz gráfica funcional
+
+## 🧭 En desarrollo
+- Definición dinámica del número de jugadores
+- Implementación de reglas y jugadas
+- Lógica avanzada de turnos
+
+## 📈 Estado del proyecto
+Proyecto funcional en evolución.
+
